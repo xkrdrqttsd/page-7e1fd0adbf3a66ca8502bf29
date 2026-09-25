@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.beluck.cn/sitemap.xml
